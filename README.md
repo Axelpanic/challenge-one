@@ -29,3 +29,6 @@ MIT License as default.
 
 ![Screenshot](./assets/images/screenshot.jpg)
 
+## link to deploy!
+https://axelpanic.github.io/challenge-one/
+
